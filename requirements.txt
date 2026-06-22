@@ -1,0 +1,7 @@
+streamlit
+SpeechRecognition
+pydub
+textblob
+pandas
+matplotlib
+reportlab
